@@ -3,6 +3,3 @@ A game made in Unity. Can you guess how many Polar Bears are there?! If you can 
 A suprise awaits you when find out how many Polar Bears are there... 
 # Windows
 Click on the .exe file
-
-# Linux
-Run the linuxBuild.x86_64 file
